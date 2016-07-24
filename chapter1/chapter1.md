@@ -39,3 +39,4 @@ Generally, a Cloud is deployed in the following models:
 
 Store sensitive information on a Private Cloud, while offering public services based on that information from a Public Cloud.
 Meet the temporary resources needed from the Public Cloud. These temporary resources cannot be met from a Private Cloud.
+(https://github.com/AradhanaSingh/lfs151/tree/master/chapter1/images)
