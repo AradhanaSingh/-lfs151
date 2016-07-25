@@ -16,3 +16,5 @@ A High-Level Overview of the KVM/QEMU Virtualization Environment
 * VMWare
 * VirtualBox
 * Hyper-V.
+
+VirtualBox is an x86 and AMD64/Intel64 virtualization product from Oracle, which runs on Windows, Linux, Macintosh, and Solaris hosts and supports Guest OSes from Windows, Linux families, and others, like Solaris, FreeBSD, DOS, etc.
