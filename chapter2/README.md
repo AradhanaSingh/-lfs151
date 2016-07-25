@@ -1,5 +1,7 @@
 Chapter 2. Virtualization > Introduction and Learning Objectives > Virtualization
 
+Virtualization : According to Wikipedia,
+"In computing, virtualization refers to the act of creating a virtual (rather than actual) version of something, including virtual computer hardware platforms, operating systems, storage devices, and computer resources." 
 
 Eexamples of hypervisors are:
 
